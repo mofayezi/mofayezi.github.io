@@ -1,0 +1,101 @@
+- title: General Information
+  type: map
+  contents:
+    - name: Full Name
+      value: Mohammadreza Mofayezi
+    - name: Languages
+      value: English, Persian
+
+- title: Education
+  type: time_table
+  contents:
+    - title: Bachelor of Science in Computer Engineering
+      institution: Sharif University of Technology, Tehran, Iran
+      year: 2019 - now
+      description:
+        - '<b>GPA:</b> 18.36/20.0'
+        - '<b>Selected Courses:</b> Artificial Intelligence, Machine Learning, Modern Information Retrieval, Bioinformatics, Linear Algebra, Probability and Statistics, Design of Algorithms'
+    - title: Diploma in Mathematics and Physics
+      institution: Shahid Sadoughi High School, Yazd, Iran
+      year: 2013 - 2019
+      description:
+        - Affiliated with National Organization for Development of Exceptional Talents
+
+- title: Experience
+  type: time_table
+  contents:
+    - title: Generative Vision and Robust Learning Research Group
+      institution: Undergraduate Research Assistant Under the Supervision of Prof. Adam Kortylewski (MPII, Germany)
+      year: 2022 - 2023
+      description:
+        - Proposed a novel benchmark for evaluating the robustness of image classifiers to text-guided corruptions.
+        - Utilized diffusion models to edit images to different domains.
+    - title: 'VITA: Visual Intelligence for Transportation'
+      institution: Undergraduate Research Assistant Under the Supervision of Prof. Alexandre Alahi (EPFL, Switzerland)
+      year: 2021 - 2022
+      description:
+        - Formulated the task of human motion synthesis with a diffusion process that starts from a Gaussian noise and generates a human pose.
+        - Proposed a novel deep generative diffusion model for human motion reconstruction and prediction from incomplete and noisy data that outperforms SOTA models.
+        - The work resulted in a paper submitted to ICRA, accepted at NeurIPS 2022 Workshop on Score-Based Methods.
+
+    - title: MadLlama
+      institution: Augmented Reality Developer
+      year: 2020 - 2022
+      description:
+        - Worked on Mobile AR Games with ARCore, ARKit and Unity.
+        - Published 2 Games to App Store.
+
+- title: Voluntary Experience
+  type: time_table
+  contents:
+    - title: Machine Learning Challenge (MLC)
+      institution: Head of the Organizing Committee
+      year: 2023
+      description:
+        - Organized the first Machine Learning Challenge in AI course of Sharif University of Technology.
+        - Managed a team of 20 people.
+    - title: Reviewer at ICML 2023
+      institution: Reviewed paper for ICML 2023 Workshop on Structured Probabilistic Inference & Generative Modeling
+      year: 2023
+    - title: Artificial Intelligence
+      institution: '<b>Instructor:</b> Prof. Rohban'
+      year: 2022 - 2023
+      description: Head TA of the course (S2023). Designed and graded assignments (S2022 and F2022).
+    - title: Probability and Statistics
+      institution: '<b>Instructor:</b> Prof. Sharifi-Zarchi'
+      year: 2021
+      description: Designed and graded assignments, quiz and created educational materials.
+    - title: Data Structures and Algorithms
+      institution: '<b>Instructor:</b> Prof. Safarnejad'
+      year: 2021
+      description: Designed and graded assignments.
+    - title: Fundamentals of Programming (C, C++)
+      institution: '<b>Instructor:</b> Prof. Fazli and Fakouri'
+      year: 2020 - 2021
+      description: Designed and graded assignments. Created reading materials.
+
+- title: Academic Interests
+  type: nested_list
+  contents:
+    - title: Computer Vision
+      items: 
+        - Representation Learning
+        - Generative Models
+        - Robust Learning
+    - title: Natural Language Processing
+      items:
+        - Commonsense Reasoning
+        - Causal Reasoning
+
+- title: Honors and Awards
+  type: time_table
+  contents:
+    - year: 2019
+      items: 
+        - 2nd Team in Spaghetti Code Contest 
+        - University Entrance Exam; 1st rank among more than 50k students, 15th among 250k students
+
+- title: Other Interests
+  type: list
+  contents:
+    - <u>Hobbies:</u> Graphic Design and Reading Books.
