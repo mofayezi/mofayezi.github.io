@@ -73,6 +73,9 @@
       institution: '<b>Instructor:</b> Prof. Fazli and Fakouri'
       year: 2020 - 2021
       description: Designed and graded assignments. Created reading materials.
+    - title: Gamein 2020 Contest
+      institution: As a member of the Technical Staff, developed a large-scale multiplayer game with Unity3D and C#
+      year: 2020
 
 - title: Academic Interests
   type: nested_list
