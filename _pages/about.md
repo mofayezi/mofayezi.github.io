@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: CE @ Sharif University of Technology
+subtitle: Computer Engineering @ Sharif University of Technology
 
 profile:
   align: right
