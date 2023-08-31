@@ -13,8 +13,9 @@
       institution: Sharif University of Technology, Tehran, Iran
       year: 2019 - now
       description:
-        - '<b>GPA:</b> 18.39/20.0 (Last Year: 19.01)'
+        - '<b>GPA:</b> 18.39/20.0 (Major: 18.69/20.0 | Last Year: 19.01/20.0)'
         - '<b>Selected Courses:</b> Artificial Intelligence, Machine Learning, Modern Information Retrieval, Bioinformatics, Linear Algebra, Probability and Statistics, Design of Algorithms'
+        - '<b>Online Courses:</b> CS231n: Convolutional Neural Networks for Visual Recognition - Stanford University, Fundamentals of Reinforcement Learning - University of Alberta (<a href="https://www.coursera.org/account/accomplishments/certificate/YPLA9UJXHGQU">Coursera certification</a>)'
     - title: Diploma in Mathematics and Physics
       institution: Shahid Sadoughi High School, Yazd, Iran
       year: 2013 - 2019
@@ -98,7 +99,7 @@
         - 2nd Team in Spaghetti Code Contest 
         - University Entrance Exam; 1st rank among more than 50k students, 15th among 250k students
 
-- title: Other Interests
+- title: Hobbies
   type: list
   contents:
-    - <u>Hobbies:</u> Graphic Design and Reading Books.
+    - Graphic Design and Reading Books.
