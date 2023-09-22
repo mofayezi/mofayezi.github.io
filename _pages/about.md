@@ -27,4 +27,4 @@ Afterwards, I worked under the supervision of *Prof. Alahi* and the [VITA lab](h
 
 Then, under the supervision of *Prof. Kortylewski* and the [GVRL lab](https://gvrl.mpi-inf.mpg.de) at MPI, I conducted research on the **robustness of image classifiers**. We proposed a novel benchmark for evaluating the robustness of image classifiers to **text‑guided corruptions**. Our work was accepted to CVPR'23 Workshop on Generative Models for Computer Vision: [Benchmarking Robustness to Text-Guided Corruptions](https://openaccess.thecvf.com/content/CVPR2023W/GCV/html/Mofayezi_Benchmarking_Robustness_to_Text-Guided_Corruptions_CVPRW_2023_paper.html).
 
-I am currently working on my B.Sc. thesis under the supervision of Prof. Asgari at the [LLP lab](https://llp.berkeley.edu/asgari/). We are working on a project on **text-guided human face manipulation**.
+I am currently working on my B.Sc. thesis under the supervision of Prof. Asgari at the [LLP lab](https://llp.berkeley.edu/asgari/). We are working efficient methods for **text-guided human face manipulation**.
