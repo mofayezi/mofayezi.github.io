@@ -44,6 +44,8 @@
       year: 2020 - 2022
       description:
         - Worked on Mobile AR Games with ARCore, ARKit and Unity.
+        - Developed a fully automated system for generating a Japanese-style environment for the game.
+        - Implemented an optimized road mesh generation tool with the ability to compress or decompress the mesh.
         - Published 2 Games to App Store.
 
 - title: Voluntary Experience
