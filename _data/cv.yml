@@ -31,12 +31,14 @@
       description:
         - Proposed a novel benchmark for evaluating the robustness of image classifiers to text-guided corruptions.
         - Utilized diffusion models to edit images to different domains.
+        - The work resulted in a paper accepted at the CVPR 2023 Workshop on Generative Models for Computer Vision.
     - title: 'VITA: Visual Intelligence for Transportation'
       institution: Undergraduate Research Assistant Under the Supervision of Prof. Alexandre Alahi (EPFL, Switzerland)
       year: 2021 - 2022
       description:
         - Formulated the task of human motion synthesis with a diffusion process that starts from a Gaussian noise and generates a human pose.
         - Proposed a novel deep generative diffusion model for human motion reconstruction and prediction from incomplete and noisy data that outperforms SOTA models.
+        - Conducted experiments on different aspects of the model, such as the diversity of the generated motion and its accuracy.
         - The work resulted in a paper submitted to ICRA, accepted at NeurIPS 2022 Workshop on Score-Based Methods.
 
     - title: MadLlama

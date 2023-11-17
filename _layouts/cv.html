@@ -1,7 +1,7 @@
----
+<!-- ---
 layout: default
----
-<!-- _layouts/cv.html -->
+--- -->
+<!-- _layouts/cv.html
         <div class="post">
 
           <header class="post-header">
@@ -32,4 +32,17 @@ layout: default
               </div>
           </article>
 
-        </div>
+        </div> -->
+---
+layout: default-wide
+---
+
+<html>
+  <head>
+    <meta charset="utf-8" />
+        <meta name="viewport" content="width=device-width">
+  </head>
+  <body>
+    <object data="{{ page.cv_pdf | prepend: 'assets/pdf/' | relative_url }}" type="application/pdf" style="min-height:100vh;width:100%"></object>
+  </body>
+</html>
