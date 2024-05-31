@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://ckoorosh.github.io/sitemap.xml
+Sitemap: https://mofayezi.github.io/sitemap.xml
